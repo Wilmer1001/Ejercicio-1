@@ -1,0 +1,20 @@
+body{
+    margin-bottom: 20px;
+    padding: 10 px;
+    text-align: center;
+    background-color: beige;
+}
+.secc-one, .secc-two, .secc-thre {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.conten{
+    display: block;
+    margin-top: 10px;
+    background-color: lightgray;
+    padding: 10px;
+}
+.secc-two{
+    display: block;
+    margin-bottom: 10px;
+}
